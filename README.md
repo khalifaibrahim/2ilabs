@@ -1,6 +1,8 @@
 # 2ilabs
 Quiz App
 
+**Analysis.doc**: Shows the db schema, architectural flow of api and process flow diagram
+
 Demo application : http://2dx.com.ng/2ilabs
 
 **config file**: initialize the database and header origin configuration 
