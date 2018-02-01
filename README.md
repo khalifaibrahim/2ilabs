@@ -5,6 +5,8 @@ Quiz App
 
 Demo application : http://2dx.com.ng/2ilabs
 
+**sample details** : **username:** ibrahim, **password:** ibrahim
+
 **config file**: initialize the database and header origin configuration 
 **db class**: A class to access MySQL database with convenient methods
      in an object oriented way, and with a powerful debug system.
