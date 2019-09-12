@@ -1,7 +1,7 @@
 # 2ilabs
 Quiz App
 
-**Analysis.doc**: Shows the db schema, architectural flow of api and process flow diagram
+**Analysis.doc**: Shows the db schema, architectural flow and process flow diagram
 
 Demo application : http://2dx.com.ng/2ilabs
 
@@ -13,12 +13,10 @@ Demo application : http://2dx.com.ng/2ilabs
 
 ****API ENDPOINTS:**** 
 **post method: add new user**
-http://2dx.com.ng/2ilabs/api/adduser.php
+http://2dx.com.ng/2ilabs/api/adduser
 
 **post: login**
-http://2dx.com.ng/2ilabs/api/endpoint.php
+http://2dx.com.ng/2ilabs/api/endpoint
 
 **get method: fetch all quiz**
-http://2dx.com.ng/2ilabs/api/get.php
-
-
+http://2dx.com.ng/2ilabs/api/get-quiz
